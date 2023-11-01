@@ -28,8 +28,7 @@ public class Main {
                 System.out.println(arr1[i]);
         }catch (InputMismatchException e ){
             System.out.printf("you most enter a number");}
-        catch (ArrayIndexOutOfBoundsException e){
-        System.out.printf("Worng Number");}*/
+        */
 
 
 //8
